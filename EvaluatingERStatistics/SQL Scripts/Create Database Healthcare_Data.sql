@@ -1,3 +1,6 @@
+-- Description: This is a standard script from Microsoft to create a new database in SQL Server. This is creating the database "Healthcare_Data".
+-- Created By: Savannah Montano
+
 USE master;
 GO
 -- Verify database does not exist, if it does, drop it
